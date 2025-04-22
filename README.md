@@ -42,6 +42,7 @@
 #### **Outros**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Git Flow](https://img.shields.io/badge/-Git%20Flow-F05032?logo=git&logoColor=white)
+![Mensageria](https://img.shields.io/badge/-Mensageria-5A0FC8?logo=apachekafka&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-009688?logo=agile&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-007ACC?logo=ajax&logoColor=white)
