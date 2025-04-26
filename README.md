@@ -38,6 +38,7 @@
 
 #### **Testes**  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-5C2D91?logo=.net&logoColor=white)
 
 #### **Outros**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
