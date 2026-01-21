@@ -4,8 +4,7 @@
 <p align="left"> 
  :star: :star: :star: :star: :star: Desenvolvedor full stack com 7+ XP em desenvolvimento de APIs e aplicações web escaláveis :rocket:  
 </p>
-
-### :email: Vamos conversar?  
+ 
 <a href="mailto:luuan.dev@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luuan.dev@gmail.com" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/victorluanoliveira/" title="LinkedIn">
