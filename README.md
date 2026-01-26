@@ -6,7 +6,7 @@
  
 **🏅 Back End Developer** <br/>
 
-💡 _Transformo requisitos complexos em APIs eficientes e sistemas confiáveis._ <br/>
+💡 _Transformo requisitos complexos em APIs eficientes e confiáveis._ <br/>
 🛡️ _Garantia de código limpo, arquitetura sólida e soluções escaláveis._
 </p>
 
