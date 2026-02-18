@@ -4,7 +4,7 @@
 <p align="left">
 :star: :star: :star: :star: :star: <br/>
  
-**🏅 Back End Developer** <br/>
+**🏅 Backend Developer** <br/>
 
 💡 _Transformo requisitos complexos em APIs eficientes e confiáveis._ <br/>
 🛡️ _Garantia de código limpo, arquitetura sólida e soluções escaláveis._
