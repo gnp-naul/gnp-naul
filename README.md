@@ -5,14 +5,14 @@
  
 **🏅 Backend Developer** <br/>
 
-💡 _Transformo requisitos complexos em APIs eficientes e confiáveis._ <br/>
-🛡️ _Garantia de código limpo, arquitetura sólida e soluções escaláveis._
+_Transformo requisitos complexos em APIs eficientes e confiáveis._ <br/>
+_Garantia de código limpo, arquitetura sólida e soluções escaláveis._
 </p>
 
 <br />
 <br />
 
-###### 📅 +7 years XP
+###### +7 years XP
 
 <a href="mailto:luuan.dev@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luuan.dev@gmail.com" alt="Gmail"/>
