@@ -5,8 +5,8 @@
  
 **🏅 Backend Developer** <br/>
 
-_Transformo requisitos complexos em APIs eficientes e confiáveis._ <br/>
-_Garantia de código limpo, arquitetura sólida e soluções escaláveis._
+_I take complex requirements and turn them into fast, reliable APIs._ <br/>
+_Clean code, solid architecture, scalable solutions._
 </p>
 
 <br />
