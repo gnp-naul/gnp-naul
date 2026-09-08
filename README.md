@@ -12,7 +12,7 @@ _Clean code, solid architecture, scalable solutions._
 <br />
 <br />
 
-###### +7 years XP
+###### +8 years XP
 
 <a href="mailto:luuan.dev@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luuan.dev@gmail.com" alt="Gmail"/>
